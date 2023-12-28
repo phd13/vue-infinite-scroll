@@ -1,0 +1,27 @@
+{
+  "name": "vue-infinite-scroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint --ext .js,.vue src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "eslint": "^8.56.0",
+    "eslint-plugin-vue": "^9.19.2",
+    "vite": "^5.0.10"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "vite-plugin-eslint": "^1.8.1",
+    "vue": "^3.2.36"
+  }
+}
